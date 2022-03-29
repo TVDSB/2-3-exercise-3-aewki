@@ -9,7 +9,7 @@ def main():
     elif Y %5 == 0:
         print("buzz")
     else:
-        print(X)
+        print(Y)
 
 if __name__ =='__main__':
     main()
